@@ -1,4 +1,4 @@
-# Review
+# Review Types
 
 ## TypeScript is a superset of JavaScript that adds types.
 ## The type system refers to TypeScript’s understanding of how your code is meant to function: mainly what data types should be stored under your variables.
